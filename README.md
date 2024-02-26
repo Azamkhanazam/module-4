@@ -35,5 +35,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributions
 
 Azam Khan
-
-**Note:** Customize the README according to your project's specifics and include appropriate links and information.
